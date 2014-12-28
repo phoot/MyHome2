@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // App name
+    <string name="app_name">MyHome</string>
+
+    // feedback messages
+    <string name="wrong_psw">Wrong Password</string>
+    <string name="wrong_user">Wrong Login</string>
+    <string name="wrong_access">Device not found</string>
+    <string name="switch_on">Device ON</string>
+    <string name="switch_off">Device OFF</string>
+    <string name="no_network">No Network</string>
+    <string name="check_device_status">Update Status and Power</string>
+    <string name="limited_version">Max 2 devices in free version</string>
+
+    // power messages
+    <string name="device_power"></string>
+    <string name="live_power">Live Power:</string>
+    <string name="cumul_power">Total: </string>
+
+    // setting menu
+    <string name="action_edit">Edit Mode</string>
+    <string name="action_settings">Add Device</string>
+    <string name="action_about_txt">About</string>
+
+    // about screen
+    <string name="title_about_scr">About</string>
+    <string name="about_text_app">My Home</string>
+    <string name="about_text_dev">By Oxilea</string>
+    <string name="about_text_date"> 2014</string>
+
+    // setting screen
+    <string name="title_setting_scr">New device</string>
+    <string name="device_name_set_scr">Device Name</string>
+    <string name="device_nbr_set_scr">Device Number</string>
+    <string name="device_type_set_scr">Pulse</string>
+    <string name="device_ip_address_set_scr">IP Address</string>
+    <string name="device_port_set_scr">IP Port</string>
+    <string name="device_login_set_scr">Login</string>
+    <string name="device_psw_set_scr">Password</string>
+    <string name="device_icon_type_set_scr">Icon Type</string>
+    <string name="device_protocol_type_set_scr">Protocol Type</string>
+    <string name="save_setting_scr">Save</string>
+    <string name="delete_setting_scr">Delete</string>
+
+    // spinner array for icons
+    <string-array name="icons_array">
+        <item>Door</item>
+        <item>Plug</item>
+        <item>Lamp</item>
+        <item>Default</item>
+    </string-array>
+
+    // spinner array for protocols
+    <string-array name="protocol_array">
+        <item>LonHand</item>
+        <item>Maginon</item>
+    </string-array>
+
+</resources>
